@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aurosish Rout</h1>
 <h3 align="center">Experienced Full Stack Developer Specializing in Generative AI passionate about creating innovative web apps</h3>
 
-- 🔭 I’m currently working on back-end services.
+- 🔭 I’m currently working on Production grade back-end services
 
 - 🌱 I’m currently learning **React , Gen A.I**
 
