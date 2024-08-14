@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aurosish Rout</h1>
+<h1 align="center">Hi , I'm Aurosish Rout</h1>
 <h3 align="center">Experienced Full Stack Developer Specializing in Generative AI passionate about creating innovative web apps</h3>
 
 - 🔭 I’m currently working on Production grade back-end services
@@ -27,7 +27,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aurosish07&show_icons=true&locale=en" alt="aurosish07" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aurosish07&" alt="aurosish07" /></p>
 
