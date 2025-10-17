@@ -1,15 +1,15 @@
 <h1 align="center">Hi , I'm Aurosish Rout</h1>
-<h3 align="center">Experienced Full Stack Developer Specializing in Generative AI passionate about creating innovative web apps</h3>
+<h3 align="center">Experienced Full Stack Developer Specializing in Back-end development passionate about creating innovative web apps</h3>
 
-- 🔭 I’m currently working on Production grade back-end services
+- 🔭 I’m currently working on Production grade back-end systems , Server Administration , automation pipeline
 
-- 🌱 I’m currently learning **React , Gen A.I**
+- 🌱 I’m currently learning **philosophy , intregated systems**
 
 - 👨‍💻 All of my projects are available at [https://aurosish07.github.io/Aurosish_Rout/](https://aurosish07.github.io/Aurosish_Rout/)
 
 - 📝 I regularly write articles on [https://medium.com/@kishanaurosish](https://medium.com/@kishanaurosish)
 
-- 💬 Ask me about **A.I , Node.js**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **kishanaurosish@gmail.com**
 
