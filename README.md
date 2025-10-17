@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Aurosish Rout</h1>
-<h3 align="center">Experienced Full Stack Developer Specializing in Back-end development passionate about creating innovative web apps</h3>
+<h3 align="center">Core Back-end Engineer/Developer passionate about creating innovative web apps</h3>
 
 - 🔭 I’m currently working on Production grade back-end systems , Server Administration , automation pipeline
 
-- 🌱 I’m currently learning **philosophy , intregated systems**
+- 🌱 I’m currently learning **philosophy , intregated systems , web3**
 
 - 👨‍💻 All of my projects are available at [https://aurosish07.github.io/Aurosish_Rout/](https://aurosish07.github.io/Aurosish_Rout/)
 
